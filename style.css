@@ -43,6 +43,10 @@ gap: 18px;
     border-radius: 5px;
     border-style: none;
     padding: .5rem 1rem;
+    /* font-weight: 400; */
+}
+.loginbutton:hover{
+    background-color: rgb(237, 235, 235);
 }
     
 .signupbutton{
@@ -51,6 +55,11 @@ gap: 18px;
     padding: .5rem 1rem;
     border-style: none;
     color: white;
+    /* box-shadow: 0 0 10px  rgba(0,0,0,0.05); */
+}
+.signupbutton:hover{
+  
+  background-color: rgb(17, 138, 71);
 }
 
 .insights{
@@ -113,6 +122,10 @@ gap: 18px;
     display: inline-block;
    margin-left: 60px;
     left: 0;
+}
+.registor:hover{
+  
+  background-color: rgb(17, 138, 71);
 }
 .clientsection h2{
 text-align: center;    
@@ -241,6 +254,10 @@ h2{
     
 
 }
+.learnbutton:hover{
+  
+  background-color: rgb(17, 138, 71);
+}
 .pixelgrade button{
     margin-right: 485px;
 }
@@ -278,7 +295,7 @@ span {
     flex: 1;
      align-items: center;
      gap: 10px;
-     ;
+     
   
 
 }
@@ -352,8 +369,16 @@ margin-top: -100px;
     
 
 }
+.learnbutton2:hover{
+  
+  background-color: rgb(17, 138, 71);
+}
 .footersection button{
     margin-right: 485px;
+}
+.footersection button:hover{
+  
+  background-color: rgb(17, 138, 71);
 }
 .tesla{
     display: flex;
@@ -462,6 +487,10 @@ height: 230px;
     padding: .5rem 1rem;
     border-style: none;
     border-radius: 5px;
+}
+.demo:hover{
+  
+  background-color: rgb(17, 138, 71);
 }
 .demo{
     margin-left: 550px;
