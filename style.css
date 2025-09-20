@@ -32,10 +32,17 @@ gap: 18px;
 
 }
 .headbar ul li a{
-    color: grey;
+    color: gray;
+    /* font-weight: 500; */
     text-decoration: none;
    
     
+}
+.headbar ul li a:hover{
+    background-color:rgb(26, 198, 93);
+    color: azure;
+    border-radius: 5px;
+    padding: .5rem 1rem;
 }
 .loginbutton{
     color: rgb(26, 198, 93);
@@ -421,6 +428,10 @@ font-size: 15px;
     color: rgb(26, 198, 93);
     font-weight: 500;
     padding-top: initial;
+}
+.logos span:hover{
+    color: rgb(17, 138, 71);
+    
 }
 
 .marketing p{
